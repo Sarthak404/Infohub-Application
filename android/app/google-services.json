@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615456584770",
+    "project_id": "infohub-51e3d",
+    "storage_bucket": "infohub-51e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615456584770:android:e4009a0fdb8e6d515de9db",
+        "android_client_info": {
+          "package_name": "com.infohub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbmKtwYmVAT_g2f0EwiVb_fufqmGjEGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615456584770:android:8b8f2fc6905964c85de9db",
+        "android_client_info": {
+          "package_name": "com.myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbmKtwYmVAT_g2f0EwiVb_fufqmGjEGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
